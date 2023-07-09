@@ -1,7 +1,4 @@
-# CE-QUAL-W2-Workshop-2023
-Workshop: Water Quality Modeling with CE-QUAL-W2, July 18 - 20, 2023
-
-# CE-QUAL-W2 Water Quality Modeling Workshop
+# Workshop: Water Quality Modeling with CE-QUAL-W2
 
 ## Date: July 18 - 20, 2023
 
