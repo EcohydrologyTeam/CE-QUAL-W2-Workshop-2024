@@ -21,7 +21,24 @@ CE-QUAL-W2 is a state-of-the-art, two-dimensional (2D), longitudinal/vertical hy
 Furthermore, recent enhancements to the model have expanded its capabilities, enabling more detailed modeling of phenomena such as Total Dissolved Gas (TDG), sediment diagenesis, and the buoyancy, rise, and fall of algae. Notably, the prediction of variable velocity of cyanobacteria has advanced the simulation of Harmful Algal Bloom (HAB) conditions, proving particularly useful. These enhancements make CE-QUAL-W2 an even more powerful resource for tackling complex water quality issues.
 
 Workshop Video Links:
-Day 1 
-1.02
-1.03
-1.05
+
+Day 1:
+
+1.02 - https://youtu.be/4yCOuk2Ch_w
+
+1.03 part 1 - https://youtu.be/5NV2oRaMHPg
+
+1.03 part 2 - https://youtu.be/5ZQ5unPuuto
+
+1.05 - https://youtu.be/nAiqWAdwnNU
+
+1.06 - https://youtu.be/kBpcI0jIMno
+
+1.07 - https://youtu.be/d7O-zDbyXVY
+
+1.08 - No recording
+
+1.09 - https://youtu.be/zJ4xXVxUzI0
+
+Day 2:
+
