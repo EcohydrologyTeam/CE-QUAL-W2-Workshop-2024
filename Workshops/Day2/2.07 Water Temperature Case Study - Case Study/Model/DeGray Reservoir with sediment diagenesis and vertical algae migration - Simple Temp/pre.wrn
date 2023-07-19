@@ -1,0 +1,4 @@
+File w2_diagenesis.npt exists but SED_DIAG in control file is OFF, hence there will be no sediment diagenesis processes modeled.
+Upstream selective withdrawal bottom layer [KBUGT=30] < segment bottom active layer [KB=35] for gate 1
+Gate gas coefficient a [AGASGT] < 0 or > 10 for gate 1
+Gate gas coefficient b [BGASGT] < 100 or > 150 for gate 1
