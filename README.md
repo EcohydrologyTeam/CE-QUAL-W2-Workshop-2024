@@ -30,6 +30,8 @@ Day 1:
 
 1.03 part 2 - https://youtu.be/5ZQ5unPuuto
 
+1.04 - Posted under Day 2
+
 1.05 - https://youtu.be/nAiqWAdwnNU
 
 1.06 - https://youtu.be/kBpcI0jIMno
