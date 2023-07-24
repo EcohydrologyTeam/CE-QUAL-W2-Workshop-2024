@@ -44,3 +44,46 @@ Day 1:
 
 Day 2:
 
+1.04 - https://youtu.be/pXMD6NnxOH0
+
+2.01 - https://youtu.be/1kYSmHfefMY
+
+2.02 - https://youtu.be/U9Jyiv_ZSgA
+
+2.03 - https://youtu.be/uYuROH8xOfA
+
+2.04 - https://youtu.be/H6ZZjzPHejo
+
+2.05 - https://youtu.be/EfLw_MbV5e0
+
+2.06 - https://youtu.be/aXsv4cp0lm4
+
+2.07 - https://youtu.be/viLg0uMwNv4
+
+2.08 and 2.09 - https://youtu.be/8kH7vsRDNZg
+
+2.10 and 2.11 - https://youtu.be/_t-yI8sxZDc
+
+2.12 - https://youtu.be/_t-yI8sxZDc
+
+2.13 - https://youtu.be/Dfsu1OgKlII
+
+Day 3:
+
+3.01 - https://youtu.be/B0pHHCcC8vs
+
+3.02 - https://youtu.be/yfDSFsvxlOU
+
+3.03 - https://youtu.be/J8UhIq7HPag
+
+3.04 - https://youtu.be/gVo-sNwqxio
+
+3.05 - https://youtu.be/dHBqh71TaWM
+
+3.06 - https://youtu.be/-ELOCpI4UNU
+
+3.07 - https://youtu.be/6bJHF9Axa9Q
+
+3.08 - https://youtu.be/lXm1MvQfiJk
+
+3.09 - coming soon
