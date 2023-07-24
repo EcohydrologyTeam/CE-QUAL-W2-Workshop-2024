@@ -64,7 +64,7 @@ Day 2:
 
 2.10 and 2.11 - https://youtu.be/_t-yI8sxZDc
 
-2.12 - https://youtu.be/_t-yI8sxZDc
+2.12 - https://youtu.be/4GaipKJ5OQc
 
 2.13 - https://youtu.be/Dfsu1OgKlII
 
