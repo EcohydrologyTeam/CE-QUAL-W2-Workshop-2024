@@ -24,66 +24,66 @@ Workshop Video Links:
 
 Day 1:
 
-1.02 - https://youtu.be/4yCOuk2Ch_w
+1.02 Introduction to Modeling - https://youtu.be/4yCOuk2Ch_w
 
-1.03 part 1 - https://youtu.be/5NV2oRaMHPg
+1.03 Hydrodynamic Modeling part 1 - https://youtu.be/5NV2oRaMHPg
 
-1.03 part 2 - https://youtu.be/5ZQ5unPuuto
+1.03 Hydrodynamic Modeling part 2 - https://youtu.be/5ZQ5unPuuto
 
-1.04 - Posted under Day 2
+1.04 Water Temperature Modeling - Posted under Day 2
 
-1.05 - https://youtu.be/nAiqWAdwnNU
+1.05 Water Quality Modeling- https://youtu.be/nAiqWAdwnNU
 
-1.06 - https://youtu.be/kBpcI0jIMno
+1.06  New Features in V5.0 - https://youtu.be/kBpcI0jIMno
 
-1.07 - https://youtu.be/d7O-zDbyXVY
+1.07 Workshop Software Setup - https://youtu.be/d7O-zDbyXVY
 
 1.08 - No recording
 
-1.09 - https://youtu.be/zJ4xXVxUzI0
+1.09 Model Setup I Case Study - https://youtu.be/zJ4xXVxUzI0
 
 Day 2:
 
-1.04 - https://youtu.be/pXMD6NnxOH0
+1.04 Water Temperature Modeling - https://youtu.be/pXMD6NnxOH0
 
-2.01 - https://youtu.be/1kYSmHfefMY
+2.01 Model Grid - https://youtu.be/1kYSmHfefMY
 
-2.02 - https://youtu.be/U9Jyiv_ZSgA
+2.02 Model Grid Case Study - https://youtu.be/U9Jyiv_ZSgA
 
-2.03 - https://youtu.be/uYuROH8xOfA
+2.03 Model Output - https://youtu.be/uYuROH8xOfA
 
-2.04 - https://youtu.be/H6ZZjzPHejo
+2.04 Model Setup II- https://youtu.be/H6ZZjzPHejo
 
-2.05 - https://youtu.be/EfLw_MbV5e0
+2.05 Model Setup II Case Study - https://youtu.be/EfLw_MbV5e0
 
-2.06 - https://youtu.be/aXsv4cp0lm4
+2.06 Water Temperature - https://youtu.be/aXsv4cp0lm4
 
-2.07 - https://youtu.be/viLg0uMwNv4
+2.07 Water Temperature Case Study - https://youtu.be/viLg0uMwNv4
 
-2.08 and 2.09 - https://youtu.be/8kH7vsRDNZg
+2.08 and 2.09 Dissolved Oxygen Lecture and Case Study - https://youtu.be/8kH7vsRDNZg
 
-2.10 and 2.11 - https://youtu.be/_t-yI8sxZDc
+2.10 and 2.11 Total Dissolved Gas Lecture and Case Study - https://youtu.be/_t-yI8sxZDc
 
-2.12 - https://youtu.be/4GaipKJ5OQc
+2.12 Model Utilities - https://youtu.be/4GaipKJ5OQc
 
-2.13 - https://youtu.be/Dfsu1OgKlII
+2.13 Model Utilities Workshop - https://youtu.be/Dfsu1OgKlII
 
 Day 3:
 
-3.01 - https://youtu.be/B0pHHCcC8vs
+3.01 Special Topics: Near Term Fish Prediction - https://youtu.be/B0pHHCcC8vs
 
-3.02 - https://youtu.be/yfDSFsvxlOU
+3.02 Calibration & Validation - https://youtu.be/yfDSFsvxlOU
 
-3.03 - https://youtu.be/J8UhIq7HPag
+3.03 Calibration & Validation Workshop - https://youtu.be/J8UhIq7HPag
 
-3.04 - https://youtu.be/gVo-sNwqxio
+3.04 Adding Ports to a Dam - https://youtu.be/gVo-sNwqxio
 
-3.05 - https://youtu.be/dHBqh71TaWM
+3.05 Adding Ports to a Dam Workshop - https://youtu.be/dHBqh71TaWM
 
-3.06 - https://youtu.be/-ELOCpI4UNU
+3.06 Selective Withdrawal - https://youtu.be/-ELOCpI4UNU
 
-3.07 - https://youtu.be/6bJHF9Axa9Q
+3.07 Selective Withdrawal Workshop - https://youtu.be/6bJHF9Axa9Q
 
-3.08 - https://youtu.be/lXm1MvQfiJk
+3.08 Upgrade to V5.0 Workshop- https://youtu.be/lXm1MvQfiJk
 
-3.09 - coming soon
+3.09 Special Topics: The W2 Animator (W2Anim): a visualization and post-processing tool for CE-QUAL-W2 - coming soon
