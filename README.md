@@ -86,4 +86,4 @@ Day 3:
 
 3.08 Upgrade to V5.0 Workshop- https://youtu.be/lXm1MvQfiJk
 
-3.09 Special Topics: The W2 Animator (W2Anim): a visualization and post-processing tool for CE-QUAL-W2 - coming soon
+3.09 Special Topics: The W2 Animator (W2Anim): a visualization and post-processing tool for CE-QUAL-W2 - https://youtu.be/J5wtWW-85hU
