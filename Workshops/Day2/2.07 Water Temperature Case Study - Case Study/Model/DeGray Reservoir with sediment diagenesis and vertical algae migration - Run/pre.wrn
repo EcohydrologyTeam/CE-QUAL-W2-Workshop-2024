@@ -1,0 +1,20 @@
+w2_selective: DYNSTR2 TEND must be <= model end time [TMEND=   358.700]. TEND=   365.000 for #  4
+w2_aerate: [DOON] DO for turning ON the aerator is > 10 mg/l for aerator #   1
+Sediment Diagenesis:Initial sulfate concentration of sediment region 1 is 0
+Sediment Diagenesis:Initial sulfide concentration of sediment region 1 is 0
+Sediment Diagenesis:Initial sulfate concentration of sediment region 2 is 0
+Sediment Diagenesis:Initial sulfide concentration of sediment region 2 is 0
+Sediment Diagenesis:Mineralization rate for inert/slow refractory PON 1/d for region 1 is greater than 0.001 or equal to zero
+Sediment Diagenesis:Mineralization rate for inert/slow refractory PON 1/d for region 1 is greater than 0.001 or equal to zero
+Sediment Diagenesis:Mineralization rate for inert/slow refractory POP 1/d for region 1 is greater than 0.001 or equal to zero
+Sediment Diagenesis:Mineralization rate for inert/slow refractory PON 1/d for region 2 is greater than 0.001 or equal to zero
+Sediment Diagenesis:Mineralization rate for inert/slow refractory PON 1/d for region 2 is greater than 0.001 or equal to zero
+Sediment Diagenesis:Mineralization rate for inert/slow refractory POP 1/d for region 2 is greater than 0.001 or equal to zero
+Upstream selective withdrawal bottom layer [KBUGT=30] < segment bottom active layer [KB=35] for gate 1
+Gate gas coefficient a [AGASGT] < 0 or > 10 for gate 1
+Gate gas coefficient b [BGASGT] < 100 or > 150 for gate 1
+Initial constituent concentration = 0 for constituent 39 in waterbody 1
+Constituent print control [CPRWBC= ON] is " ON" but active constituent control [CAC=OFF] is not " ON" for constituent 6
+Constituent 9 is " ON", but inflow constituent concentration is "OFF" for branch 1
+Constituent 39 is " ON", but inflow constituent concentration is "OFF" for branch 1
+Epiphyton burial rate [EB=.000] = 0.0 for epiphyton group 1
