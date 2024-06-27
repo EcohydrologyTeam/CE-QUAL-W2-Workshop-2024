@@ -1,8 +1,8 @@
 # Workshop: Water Quality Modeling with CE-QUAL-W2
 
-## Date: July 18 - 20, 2023
+## Date: July 8 - 9, 2024
 
-Engineers, scientists, researchers, and planners are invited to participate in the CE-QUAL-W2 Water Quality Modeling Workshop, a comprehensive training program designed to enhance understanding and proficiency in reservoir and river water quality modeling. Hosted by the Environmental Laboratory (EL) of the Engineer Research and Development Center (ERDC), U.S. Army Corps of Engineers (USACE), this three-day workshop will take place July 18 - 20, 2023. The course coordinator is Ms. Lauren Melendez from ERDC-EL.
+Engineers, scientists, researchers, and planners are invited to participate in the CE-QUAL-W2 Water Quality Modeling Workshop, a comprehensive training program designed to enhance understanding and proficiency in reservoir and river water quality modeling. Hosted by the Environmental Laboratory (EL) of the Engineer Research and Development Center (ERDC), U.S. Army Corps of Engineers (USACE), this three-day workshop will take place July 8 - 9, 2023. The course coordinator is Ms. Lauren Melendez from ERDC-EL.
 
 This workshop is made possible through the support of:
 
@@ -12,7 +12,7 @@ This workshop is made possible through the support of:
 
 These programs recognize the significance of CE-QUAL-W2 in improving the management and protection of water resources worldwide, supporting mainenance and ongoing development to improve and extend the capabilities of CE-QUAL-W2.
 
-The course instructors are Dr. Todd Steissberg (ERDC-EL, Lead Developer of CE-QUAL-W2), Dr. Barry Bunch (ERDC-EL), Dr. Zhonglong Zhang (Portland State University and LimnoTech), Mr. Isaac Mudge (USACE New Orleans District & ERDC-EL), Dr. Andy Goodwin (ERDC-EL), and Dr. Billy Johnson (LimnoTech).
+The course instructors are Dr. Todd Steissberg (ERDC-EL, Lead Developer of CE-QUAL-W2), and Lauren Melendez (ERDC-EL)
 
 The workshop will be conducted in a hybrid format, accommodating both in-person and remote participants. Through a combination of lectures, demonstrations, and practical exercises, participants will gain a solid foundation in water quality modeling and acquire the necessary skills to set up, calibrate, and simulate CE-QUAL-W2 models for various water bodies.
 
@@ -22,68 +22,4 @@ Furthermore, recent enhancements to the model have expanded its capabilities, en
 
 Workshop Video Links:
 
-Day 1:
 
-1.02 Introduction to Modeling - https://youtu.be/4yCOuk2Ch_w
-
-1.03 Hydrodynamic Modeling part 1 - https://youtu.be/5NV2oRaMHPg
-
-1.03 Hydrodynamic Modeling part 2 - https://youtu.be/5ZQ5unPuuto
-
-1.04 Water Temperature Modeling - Posted under Day 2
-
-1.05 Water Quality Modeling- https://youtu.be/nAiqWAdwnNU
-
-1.06  New Features in V5.0 - https://youtu.be/kBpcI0jIMno
-
-1.07 Workshop Software Setup - https://youtu.be/d7O-zDbyXVY
-
-1.08 - No recording
-
-1.09 Model Setup I Case Study - https://youtu.be/zJ4xXVxUzI0
-
-Day 2:
-
-1.04 Water Temperature Modeling - https://youtu.be/pXMD6NnxOH0
-
-2.01 Model Grid - https://youtu.be/1kYSmHfefMY
-
-2.02 Model Grid Case Study - https://youtu.be/U9Jyiv_ZSgA
-
-2.03 Model Output - https://youtu.be/uYuROH8xOfA
-
-2.04 Model Setup II- https://youtu.be/H6ZZjzPHejo
-
-2.05 Model Setup II Case Study - https://youtu.be/EfLw_MbV5e0
-
-2.06 Water Temperature - https://youtu.be/aXsv4cp0lm4
-
-2.07 Water Temperature Case Study - https://youtu.be/viLg0uMwNv4
-
-2.08 and 2.09 Dissolved Oxygen Lecture and Case Study - https://youtu.be/8kH7vsRDNZg
-
-2.10 and 2.11 Total Dissolved Gas Lecture and Case Study - https://youtu.be/_t-yI8sxZDc
-
-2.12 Model Utilities - https://youtu.be/4GaipKJ5OQc
-
-2.13 Model Utilities Workshop - https://youtu.be/Dfsu1OgKlII
-
-Day 3:
-
-3.01 Special Topics: Near Term Fish Prediction - https://youtu.be/B0pHHCcC8vs
-
-3.02 Calibration & Validation - https://youtu.be/yfDSFsvxlOU
-
-3.03 Calibration & Validation Workshop - https://youtu.be/J8UhIq7HPag
-
-3.04 Adding Ports to a Dam - https://youtu.be/gVo-sNwqxio
-
-3.05 Adding Ports to a Dam Workshop - https://youtu.be/dHBqh71TaWM
-
-3.06 Selective Withdrawal - https://youtu.be/-ELOCpI4UNU
-
-3.07 Selective Withdrawal Workshop - https://youtu.be/6bJHF9Axa9Q
-
-3.08 Upgrade to V5.0 Workshop- https://youtu.be/lXm1MvQfiJk
-
-3.09 Special Topics: The W2 Animator (W2Anim): a visualization and post-processing tool for CE-QUAL-W2 - https://youtu.be/J5wtWW-85hU
