@@ -2,7 +2,7 @@
 
 ## Date: July 8 - 9, 2024
 
-Engineers, scientists, researchers, and planners are invited to participate in the CE-QUAL-W2 Water Quality Modeling Workshop, a comprehensive training program designed to enhance understanding and proficiency in reservoir and river water quality modeling. Hosted by the Environmental Laboratory (EL) of the Engineer Research and Development Center (ERDC), U.S. Army Corps of Engineers (USACE), this three-day workshop will take place July 8 - 9, 2023. The course coordinator is Ms. Lauren Melendez from ERDC-EL.
+Engineers, scientists, researchers, and planners are invited to participate in the CE-QUAL-W2 Water Quality Modeling Workshop, a comprehensive training program designed to enhance understanding and proficiency in reservoir and river water quality modeling. Hosted by the Environmental Laboratory (EL) of the Engineer Research and Development Center (ERDC), U.S. Army Corps of Engineers (USACE), this three-day workshop will take place July 8 - 9, 2024. The course coordinator is Ms. Lauren Melendez from ERDC-EL.
 
 This workshop is made possible through the support of:
 
