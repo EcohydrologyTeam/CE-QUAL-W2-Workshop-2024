@@ -22,4 +22,6 @@ Furthermore, recent enhancements to the model have expanded its capabilities, en
 
 Workshop Video Links:
 
-
+Day 01: July 08 2024
+- 1.02 Introduction to Modeling: [
+](https://youtu.be/uP2ch_nGAoU)
