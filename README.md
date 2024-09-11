@@ -22,5 +22,31 @@ Furthermore, recent enhancements to the model have expanded its capabilities, en
 
 Workshop Video Links:
 
-Day 01: July 08 2024
+Day 01: July 08, 2024
+
 - 1.02 Introduction to Modeling: https://youtu.be/uP2ch_nGAoU
+
+- 1.03 Hydrodynamics Modeling: https://youtu.be/iCOu6S2-QCE
+
+- 1.04 Water Temperature Modeling: https://youtu.be/kLW8fJhfzhM
+  
+- 1.05 Water Quality Modeling: https://youtu.be/EA0A8sq1kKQ
+  
+- 1.06 Model Setup I: https://youtu.be/TOhbSv2F80I
+  
+- 1.08 Model Grid: https://youtu.be/FRbcm-sfgnU
+
+- 1.10 Model Output: https://youtu.be/0vICewsenUg
+  
+
+Day 02: July 09, 2024
+
+- 2.01 Model Setup II: https://youtu.be/V5uaQPtMTWo
+  
+- 2.03 Water Temperature: https://youtu.be/hWkYBLuP4iU
+  
+- 2.05 Dissolved Oxygen: https://youtu.be/y3TZvWUnXlM
+  
+- 2.07 Total Dissolved Gas:
+
+- 2.09 Model Utilities:
