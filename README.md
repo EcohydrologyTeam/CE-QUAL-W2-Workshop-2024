@@ -47,6 +47,6 @@ Day 02: July 09, 2024
   
 - 2.05 Dissolved Oxygen: https://youtu.be/y3TZvWUnXlM
   
-- 2.07 Total Dissolved Gas:
+- 2.07 Total Dissolved Gas: https://youtu.be/TqpOuaACiek
 
-- 2.09 Model Utilities:
+- 2.09 Model Utilities: https://youtu.be/blhFrBDaKSs
