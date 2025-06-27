@@ -10,7 +10,7 @@ This workshop is made possible through the support of:
 2. ERDC's Ecosystem Management and Restoration Research Program (EMRRP; https://emrrp.el.erdc.dren.mil/)
 3. ERDC's Aquatic Nuisance Species Research Program (ANSRP; https://www.erdc.usace.army.mil/Missions/Civil-Works/Aquatic-Nuisance-Species-Research-Program/)
 
-These programs recognize the significance of CE-QUAL-W2 in improving the management and protection of water resources worldwide, supporting mainenance and ongoing development to improve and extend the capabilities of CE-QUAL-W2.
+These programs recognize the significance of CE-QUAL-W2 in improving the management and protection of water resources worldwide, supporting maintenance and ongoing development to improve and extend the capabilities of CE-QUAL-W2.
 
 The course instructors are Dr. Todd Steissberg (ERDC-EL, Lead Developer of CE-QUAL-W2), and Lauren Melendez (ERDC-EL)
 
